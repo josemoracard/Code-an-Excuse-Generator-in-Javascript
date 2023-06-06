@@ -1,1 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: rgb(112, 123, 184);
+}
+
+#deathSpace {
+  height: 300px;
+}
